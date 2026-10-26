@@ -67,7 +67,7 @@ When in **Manual Mode**, the robot responds to the following character streams o
    ```bash
    git clone https://github.com
    ```
-2. Open `sketch_oct26a.ino` in the Arduino IDE.
+2. Open `Smart-Robot-Car.ino` in the Arduino IDE.
 3. Install the required `Ultrasonic` library via the Library Manager.
 4. Connect the hardware according to the **Pin Mapping** section.
 5. Upload the code to your Arduino board and enjoy!
