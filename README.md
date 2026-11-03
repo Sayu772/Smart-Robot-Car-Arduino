@@ -62,7 +62,7 @@ When in **Manual Mode**, the robot responds to the following character streams o
 ---
 ### Project Demo (Manual Remote Control)
 
-<video src="https://github.com/user-attachments/assets/64fba85e-fe4b-41f9-b205-36ccc881ac2b" width="280" controls></video>
+<video src="https://github.com/user-attachments/assets/71a66bb7-b2fe-4da5-8ce2-adc79f139529" width="280" controls></video>
 
 
 
