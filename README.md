@@ -60,6 +60,12 @@ When in **Manual Mode**, the robot responds to the following character streams o
 *   **Concepts:** Embedded C Programming, Pulse Width Modulation (PWM), H-Bridge Motor Control, Ultrasonic Distance Calculation, Finite State Control logic.
 
 ---
+### Project Demo (Manual Remote Control)
+
+<video src="https://github.com/user-attachments/assets/64fba85e-fe4b-41f9-b205-36ccc881ac2b" width="280" controls></video>
+
+
+
 
 ## ⚙️ Installation & Setup
 
